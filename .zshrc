@@ -43,6 +43,7 @@ echo █████████████████████████
 alias z='source ~/.zshrc'
 alias vz='vim ~/.zshrc'
 alias postman='/Applications/Postman.app/Contents/MacOS/Postman &'
+alias minecraft-start='java -Xmx2G -Xms2G -jar ~/minecraft/server.jar --nogui'
 # ---------------------------------------------------------
 
 # prompt --------------------------------------------------
